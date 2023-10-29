@@ -3,6 +3,10 @@
 
 <h1 align="center"> Lich Engine Project</h1>
 
+<p align="center">
+<img src= "ScreenShots/Logo_Full.png"/>
+</p>
+
 <h2> Introduction : </h2>
 The Lich Engine is game engine project couple with a engine editor. This project has been made in four months.The engine is conceive to be use on Window and use OpenGL 4.5 has graphics library. The main goal of this project was to create an engine for the creation of horror games. To fulfill this goal, we concentrate on the renderer feature to give lot of tools to create immersive environement. The groups member are :
 <div class= name>
@@ -23,8 +27,9 @@ To launch the project on Visual Studio move every file of the "Builds" folder in
 <h2> Engine Features : </h2>
 
 <h3><b> - Render :</b></h3> 
+<p>
 Our engine has a lot of render features in order to facilitate the creation of amazing environment for the game created in the engine. The main feature is the Physically Based Rendering that allow our engine to have a realistic look. The second important render feature is the Deferred Rendering, that allow to have lot of lights in ours scenes. We have also others effect like Shadow Mapping, SSAO or Normal Mapping.
-
+</p>
 <p align="left">
 <img src= "ScreenShots/ScreenShot2.png" width="500" />
 <img src= "ScreenShots/ScreenShot3.png" width="500" />
@@ -32,7 +37,7 @@ Our engine has a lot of render features in order to facilitate the creation of a
 
 <p>
 <h3><b> - Physics :</b></h3>
- Our engine has realistic physics available for the user. For this feature, we use the PhysX library from Nvidia that compute all calculs of the physics. Our engine can be link to Nvidia Physics Debugger software in order to help users when they work on physics problems and need to debug. 
+ Our engine has realistic physics available for the user. For this feature, we use the PhysX library from Nvidia that compute all calculs of the physics. Our engine can be link to Nvidia Physics Debugger software in order to help users when they work on physics problems and need to debug. </p>
  <p align="center">
 <img src= "ScreenShots/ScreenShot4.png"/>
 </p>
