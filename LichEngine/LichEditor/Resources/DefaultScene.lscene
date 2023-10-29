@@ -1,0 +1,21 @@
+0,Resources/Models/Skybox/CubeSky.obj,CubeSky,
+7,.\Resources\Skybox\Skybox.lskybox,Skybox,
+2,Resources/Models/Photographer/Camera_Base_color.png,Camera_Base_color,
+2,Resources/Models/Photographer/Camera_Normal_DirectX.png,Camera_Normal_DirectX,
+2,Resources/Models/Photographer/Camera_Metallic.png,Camera_Metallic,
+2,Resources/Models/Photographer/Camera_Roughness.png,Camera_Roughness,
+6,.\Resources\Materials\Photographer_Material.lmat,Photographer_Material,
+0,.\Resources\Models\Photographer\Photographer.obj,Photographer,
+***
+Camera
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~0,60.000000,1.777778,100.000000,0.010000,0.000000 0.000000 1.000000 ,Skybox,
+***
+Directional Light
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~1,0.000000 0.000000 0.000000 ,10.000000,1,0.000000 0.000000 1.000000 ,0.040000,
+***
+test
+1
+~T,0.000000 0.000000 1.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Photographer,0,1,Photographer_Material/,
+***
