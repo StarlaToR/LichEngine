@@ -8,7 +8,7 @@
 </p>
 
 <h2> Introduction : </h2>
-The Lich Engine is game engine project couple with a engine editor. This project has been made in four months.The engine is conceive to be use on Window and use OpenGL 4.5 has graphics library. The main goal of this project was to create an engine for the creation of horror games. To fulfill this goal, we concentrate on the renderer feature to give lot of tools to create immersive environement. The groups member are :
+The Lich Engine is game engine project coupled with a engine editor. This project has been made in four months at ISART DIGITAL. The engine is conceive to be use on Window and use OpenGL 4.5 has graphics library. The main goal of this project was to create an engine for the creation of horror games. To fulfill this goal, we concentrate on the renderer feature to give lot of tools to create immersive environement. The groups member are :
 <div class= name>
 <b>
 <ul>
@@ -74,3 +74,16 @@ The Lich Engine have basics UI display, we can show Text on screen and Image. Al
     <li> <b>ImGui</b> - Editor UI interface library
 </ul>
 
+<h2> Personnal tasks </h2>
+
+<h3>PhysX</h3>
+
+<p>I was in charge of choosing the physic library and implementating it in the engine. PhysX was at the time our best choice and i used it for our rigidbodies and colliders.</p>
+
+<h3>Save and Load</h3>
+
+<p>I have worked on the saving and loading of each system of the engine, especially the scenes, gameobject and component system with bryan.</p>
+
+<h3>Editor</h3>
+
+<p>I have managed the control of the editor camera and the item picker.</p>
